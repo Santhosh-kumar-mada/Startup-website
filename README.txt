@@ -5,9 +5,11 @@ STARTUP WEBSITE: README
 
 2. EDIT THE SITE (search each file for the words shown)
    Colours / spacing / font sizes : css/styles.css, the :root block at the top (lines 1-20). Change --accent first.
-   Company name, email, phone     : index.html, find/replace [YOUR COMPANY NAME], [YOUR EMAIL], [YOUR NUMBER].
+   Company name, email, phone     : index.html, find/replace TSB Softwares, [YOUR EMAIL], [YOUR NUMBER].
                                     Also replace YOUR_EMAIL in mailto: links and YOUR_NUMBER in wa.me links
                                     (number with country code, digits only, e.g. 919876543210).
+   Website URL / domain           : use https://TSBSoftware.com in href attributes and SEO tags.
+   Founder / contact name          : index.html, find/replace [Your Name] with M. Santhosh.
    Headline, tagline, copy        : index.html, hero section (search "<!-- ===== 2. HERO").
    Pricing                        : index.html, search "8. PRICING". Edit price, list items and button text.
    Stats                          : index.html, search "placeholder stats" (section 7).
